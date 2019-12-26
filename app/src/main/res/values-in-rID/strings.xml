@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Profile</string>
+    <string name="email">Alamat Email</string>
+    <string name="store">Toko</string>
+    <string name="devicephone">Telepon Perangkat</string>
+    <string name="contact">Kontak</string>
+</resources>

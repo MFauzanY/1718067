@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Profile</string>
+    <string name="email">Email Address</string>
+    <string name="store">Store</string>
+    <string name="devicephone">Device Phone</string>
+    <string name="contact">Contact</string>
 </resources>
